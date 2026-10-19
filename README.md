@@ -32,3 +32,9 @@ Edit the HTML and CSS files, then upload the changed files to the repository. Gi
 - The portfolio is a starting point and should be updated as new projects, skills, and achievements are gained.
 - The project section currently features this portfolio website as a first project. Add links to other real projects when available.
 - The page uses Google Fonts when an internet connection is available; system fonts will be used as a fallback.
+
+
+## Profile photo and LinkedIn
+- Keep `profile-photo.jpg` in the same folder as `index.html`.
+- The About card displays the profile photo.
+- The Contact section includes the LinkedIn profile link.
